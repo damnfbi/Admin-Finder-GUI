@@ -1,89 +1,116 @@
-🖥️ GUI Admin Panel Finder
-A clean, fast GUI tool with built‑in three wordlists (One, Two, Three).
-<p align="center">  <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge">  <img src="https://img.shields.io/badge/Interface-GUI-orange?style=for-the-badge">  <img src="https://img.shields.io/badge/Wordlists-Three%20Included-green?style=for-the-badge">  <img src="https://img.shields.io/badge/Use-Ethical%20Hacking-red?style=for-the-badge"><
-/p>🌟 Overv
+# 🖥️ GUI Admin Panel Finder
 
-iewGUI Admin Panel Finder is a modern and easy‑to‑use graphical tool used for detecting possible admin login panels on websit
-es.This version includ
+A clean, fast GUI tool with **three built‑in wordlists** (One, Two, Three).
 
-es:✔ A simple & clean 
-GUI✔ Three built‑in wordlists (Wordlist One, Wordlist Two, Wordlist Thr
-ee)✔ Real‑time logs inside 
-GUI✔ Optional custom wordl
-ist✔ Export results opt
-ion✔ No command-line usage — fully 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Interface-GUI-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Wordlists-Three%20Included-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Use-Ethical%20Hacking-red?style=for-the-badge">
+</p>
 
-GUI✨ Featu
+---
 
-res🖥️ Fully GUI-based — beginner frien
+## 🌟 Overview
 
-dly📚 Three built-in admin wordlis
+**GUI Admin Panel Finder** is a modern, easy‑to‑use graphical tool for detecting potential admin login panels on websites.
 
-ts:Wordlist One (fa
+This version includes:
 
-st)Wordlist Two (balanc
+✔ Simple & clean GUI
+✔ Three built‑in wordlists (One, Two, Three)
+✔ Real‑time logs inside GUI
+✔ Optional custom wordlist
+✔ Export results option
+✔ Fully GUI — no command line needed
 
-ed)Wordlist Three (deep scanni
+---
 
-ng)📂 Supports custom .txt wordl
+## ✨ Features
 
-ist⚡ Fast multithreaded scann
+🖥️ **Fully GUI‑based** — beginner‑friendly
 
-ing📜 Real-time log out
+📚 **Three built‑in admin wordlists:**
 
-put💾 Save found admin URLs to a f
+* **Wordlist One** (Fast)
+* **Wordlist Two** (Balanced)
+* **Wordlist Three** (Deep Scan)
 
-ile🧩 Works on Windows, Linux, Ter
+📂 Supports **custom .txt wordlists**
+⚡ **Multithreaded scanning**
+📜 **Real‑time log output**
+💾 **Save found admin URLs** to a file
+🧩 Works on **Windows, Linux, Termux**
+❗ Auto‑asks if URL is missing
 
-mux❗ Auto‑asks if URL is miss
+---
 
-ing📦 Installat
-ionClone the Reposit
-orygit clone https://github.com/yourusername/GUI-Admin-Panel-Fin
-dercd GUI-Admin-Panel-Fin
+## 📦 Installation
 
-derInstall Dependenc
-iespip install -r requirements.
+### 1️⃣ Clone the Repository
 
-txt▶️ Run the T
+```bash
+git clone https://github.com/yourusername/GUI-Admin-Panel-Finder
+cd GUI-Admin-Panel-Finder
+```
 
-oolLaunch the GUI usi
+### 2️⃣ Install Dependencies
 
-ng:python3 main
+```bash
+pip install -r requirements.txt
+```
 
-.py🖼️ GUI Screensh
-ots🔹 Home Win
+### 3️⃣ Run the Tool
 
-dow(Add to screenshots/home.p
+```bash
+python3 main.py
+```
 
-ng)<p align="center"><img src="https://i.ibb.co/v65pNcMR/Screenshot-2025-11-23-223052.png" width="600"><
-/p>🔹 Scanning Win
+---
 
-dow(Add to screenshots/scan.p
+## 🖼️ GUI Screenshots
 
-ng)<p align="center"><img src="/https://i.postimg.cc/6qMkGbxb/Screenshot-2025-11-23-223453.png" width="600"><
-/p>🔹 Results Win
+### 🔹 Home Window
 
-dow(Add to screenshots/results.p
+<p align="center">
+  <img src="https://i.ibb.co/v65pNcMR/Screenshot-2025-11-23-223052.png" width="600">
+</p>
 
-ng)<p align="center"><img src="https://i.ibb.co/dwF1wbcW/Screenshot-2025-11-23-223453.png" width="600"><
-/p>🔧 Wordlist System (Three Includ
+### 🔹 Scanning Window
 
-ed)The tool includes three built-in wordlists, selectable in the G
+<p align="center">
+  <img src="https://i.postimg.cc/6qMkGbxb/Screenshot-2025-11-23-223453.png" width="600">
+</p>
 
-UI:Wordlist Name Purp
-ose1 Wordlist One Fast s
-can2 Wordlist Two Normal s
-can3 Wordlist Three Deep s
+### 🔹 Results Window
 
-can✔ You can also load your own .txt wordlist manual
+<p align="center">
+  <img src="https://i.ibb.co/dwF1wbcW/Screenshot-2025-11-23-223453.png" width="600">
+</p>
 
-ly.📌 Feature Summ
-aryFeature Sta
-tusGUI Interfac
-e ✔3 Built‑in Wordlist
-s ✔Custom Wordlist Optio
-n ✔Export Scan Result
-s ✔Real‑time Log
+---
 
-s ✔Multi-threaded Scan ✔
+## 🔧 Wordlist System (Three Included)
+
+| Wordlist Name  | Purpose     |
+| -------------- | ----------- |
+| Wordlist One   | Fast Scan   |
+| Wordlist Two   | Normal Scan |
+| Wordlist Three | Deep Scan   |
+
+✔ You can also load your own **.txt** wordlist manually.
+
+---
+
+## 📌 Feature Summary
+
+| Feature              | Status |
+| -------------------- | ------ |
+| GUI Interface        | ✔      |
+| 3 Built‑in Wordlists | ✔      |
+| Custom Wordlist      | ✔      |
+| Export Results       | ✔      |
+| Real‑time Logs       | ✔      |
+| Multithreaded Scan   | ✔      |
+
+---
