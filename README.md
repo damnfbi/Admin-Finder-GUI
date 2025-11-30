@@ -50,7 +50,7 @@ This version includes:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/GUI-Admin-Panel-Finder
+git clone https://github.com/damnfbi/Admin-Finder-GUI.git
 cd GUI-Admin-Panel-Finder
 ```
 
@@ -114,3 +114,4 @@ python3 main.py
 | Multithreaded Scan   | ✔      |
 
 ---
+
